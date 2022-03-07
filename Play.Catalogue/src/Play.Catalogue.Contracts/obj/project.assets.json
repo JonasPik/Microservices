@@ -1,0 +1,73 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net5.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\jpiki\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\git\\training\\net\\Microservices By Julio Casal\\Play.Catalogue\\src\\Play.Catalogue.Contracts\\Play.Catalogue.Contracts.csproj",
+      "projectName": "Play.Catalogue.Contracts",
+      "projectPath": "C:\\git\\training\\net\\Microservices By Julio Casal\\Play.Catalogue\\src\\Play.Catalogue.Contracts\\Play.Catalogue.Contracts.csproj",
+      "packagesPath": "C:\\Users\\jpiki\\.nuget\\packages\\",
+      "outputPath": "C:\\git\\training\\net\\Microservices By Julio Casal\\Play.Catalogue\\src\\Play.Catalogue.Contracts\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\jpiki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\git\\training\\net\\Microservices By Julio Casal\\packages": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://gitlab.is2extranet.co.uk/api/v4/groups/134/-/packages/nuget/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
